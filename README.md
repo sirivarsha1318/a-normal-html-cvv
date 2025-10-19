@@ -2,4 +2,4 @@
 This is my solution for the assignment.
 
 ## Project URL
-Project is not hosted yet. Code available in this repository.
+https://github.com/sirivarsha1318/a-normal-html-cvv
